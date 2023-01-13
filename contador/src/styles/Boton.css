@@ -1,0 +1,31 @@
+.boton{
+    width: 200px;
+    border: 1px solid blue;
+    background-color: #b7d8f8;
+    color: white;
+    text-align: center;
+    padding: 20px;border-radius: 12px;
+    cursor: pointer;
+    margin-bottom: 10px;
+
+}
+
+.boton-limpiar{
+    width: 200px;
+    border: 1px solid red;
+    background-color: #eb78ae;
+    color: black;
+    text-align: left;
+    padding: 20px;
+    border-radius: 8px;
+    cursor:alias ;
+    margin-bottom: 10px;
+}
+
+.boton:hover{
+    background-color: blue;
+}
+
+.boton-limpiar:hover{
+    background-color: rgb(203, 17, 32);
+}
